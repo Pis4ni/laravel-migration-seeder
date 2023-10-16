@@ -43,7 +43,7 @@ php artisan key:generate
 
 1. Avvio MAMP
 
-2. Apro [PHPMyAdmin](http://localhost/phpMyAdmin/?lang=en)
+2. Apro [PHPMyAdmin](http://localhost/phpMyAdmin)
 
 3. Creo un nuovo DB (es. `103_rent`)
 
@@ -98,7 +98,7 @@ php artisan migrate
 
 ## Aggiunta di dati
 
-Aggiungo un paio di righe da [PHPMyAdmin](http://localhost/phpMyAdmin/?lang=en) per visualizzare dati di esempio
+Aggiungo un paio di righe da [PHPMyAdmin](http://localhost/phpMyAdmin) per visualizzare dati di esempio
 
 ## Creazione di un Model
 
